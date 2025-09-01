@@ -1,3 +1,37 @@
+0.73.0 (2025-08-07)
+-------------------
+- Pair key authentication in target Snowflake
+
+0.72.3 (2025-07-28)
+-------------------
+- [HANDL-9246] Fix pagination in tap-twilio call summaries
+
+0.72.2 (2025-07-15)
+-------------------
+- Using `python:3.10-slim-bullseye` in Dockerfile and Dockerfile.barebone
+
+0.72.1 (2025-07-15)
+-------------------
+- Bump Python version in barebone docker image from `3.8` to `3.10`
+
+0.72.0 (2025-06-27)
+-------------------
+- Add twilio voice insights to twilio-tap
+
+0.71.0 (2025-06-10)
+-------------------
+- bump snowflake-connector-python[pandas] from `3.0.4` to `3.15.0`
+
+0.70.0 (2025-06-10)
+-------------------
+- Replace pkg_resource with importlib.metadata
+- Increase timeout to 6 minutes for e2e tests
+- bump psycopg2-binary from 2.9.5 to 2.9.10
+
+0.69.2 (2025-05-20)
+-------------------
+- Upgrade tap-snowflake Python library
+
 0.69.1.post1 (2025-05-05)
 -------------------
 - Add support for "ltree" type
@@ -1098,4 +1132,3 @@ Doc-only changes
 -------------------
 
 - Initial release
-
