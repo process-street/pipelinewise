@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This repo is no longer needed, we patch it instead when it's built.
+> See https://github.com/process-street/ps-pipelinewise/commit/2053ea88cc37ebea027bde82937b56ba15eba3ed.
+
 # Notice
 To better serve Wise business and customer needs, the PipelineWise codebase needs to shrink.
 We have made the difficult decision that, going forward many components of PipelineWise will be removed or incorporated in the main repo.
