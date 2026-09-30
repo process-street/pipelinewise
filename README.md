@@ -1,5 +1,6 @@
 > [!CAUTION]
 > This repo is no longer needed, we patch it instead when it's built.
+> 
 > See https://github.com/process-street/ps-pipelinewise/commit/2053ea88cc37ebea027bde82937b56ba15eba3ed.
 
 # Notice
